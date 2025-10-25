@@ -1,3 +1,17 @@
+# 👋 Hey, I’m BulletGG!
+
+Welcome to my GitHub profile! I’m a self-taught developer with 6+ years of experience, currently studying Computer Science.
+
+## 🚀 Projects I’m Proud Of
+
+- [catboyhack](https://github.com/bulletgg/catboyhack): A csgo cheat i made for fun.
+- [dbsearcher](https://github.com/bulletgg/dbsearcher): Blazing-fast database file searcher.
+
+## 📫 Let’s Connect!
+
+Feel free to explore my projects, open issues, or reach out if you’re interested in collaborating.
+
+---
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/gbJmfEWfjX) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@bullethvh) 
