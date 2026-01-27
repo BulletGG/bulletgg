@@ -4,7 +4,6 @@ Welcome to my GitHub profile! I’m a self-taught developer with 6+ years of exp
 
 ## 🚀 Projects I’m Proud Of
 
-- [catboyhack](https://github.com/bulletgg/catboyhack): A csgo cheat i made for fun.
 - [dbsearcher](https://github.com/bulletgg/dbsearcher): Blazing-fast database file searcher.
 
 ## 📫 Let’s Connect!
